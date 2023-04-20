@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-PushNotiTest/Pods-PushNotiTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/StripeApplePay/StripeApplePay.framework
+${BUILT_PRODUCTS_DIR}/StripeCore/StripeCore.framework
+${BUILT_PRODUCTS_DIR}/StripePaymentSheet/StripePaymentSheet.framework
+${BUILT_PRODUCTS_DIR}/StripePayments/StripePayments.framework
+${BUILT_PRODUCTS_DIR}/StripePaymentsUI/StripePaymentsUI.framework
+${BUILT_PRODUCTS_DIR}/StripeUICore/StripeUICore.framework
